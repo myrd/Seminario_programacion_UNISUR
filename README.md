@@ -16,10 +16,10 @@
 
 ## Actividad 3 y 4. Estadísticas, algoritmo de clasificación, algoritmo de clusterización y visualización de datos. 
 
-[Enlace al reporte de estadísticas](https://github.com/myrd/Seminario_programacion_UNISUR/blob/0c1726094ea7aed3a93627660c0d35a09909b83a/Estadisticas_visualizacion%20(1).ipynb)  Estadísticos con el dataset covid 19  de casos registrados en Jalisco, 2022-2023.
+[Enlace al reporte de estadísticas](https://github.com/myrd/Seminario_programacion_UNISUR/blob/0c1726094ea7aed3a93627660c0d35a09909b83a/Estadisticas_visualizacion%20(1).ipynb)  Estadísticos con el dataset covid 19  de casos registrados en Jalisco, 2022-2023. 
 
 
-[Enlace al reporte de algoritmo de clasificación](https://github.com/myrd/Seminario_programacion_UNISUR/blob/29902f9037ae4a1ca6e58b893886b163b7b4b5a0/clasificacion-LR.ipynb) Clasificación de células mamarias para el diagnóstico morfológico de cáncer de mama a través del ajuste de un Modelo de Regresión Logística.
+[Enlace al reporte de algoritmo de clasificación](https://github.com/myrd/Seminario_programacion_UNISUR/blob/da22a65aa35f1e667c4cd9df797646cc16462545/clasificacion-LR.ipynb) Clasificación de células mamarias para el diagnóstico morfológico de cáncer de mama a través del ajuste de un Modelo de Regresión Logística.
 
 
-[Enlace al reporte de algoritmo k-means](https://github.com/myrd/Seminario_programacion_UNISUR/blob/29902f9037ae4a1ca6e58b893886b163b7b4b5a0/clustering-Kmeans%20.ipynb) Segmentación de clientes, potenciales, a través de Kmeans Clustering
+[Enlace al reporte de algoritmo k-means](https://github.com/myrd/Seminario_programacion_UNISUR/blob/da22a65aa35f1e667c4cd9df797646cc16462545/clustering-Kmeans%20.ipynb) Segmentación de clientes, potenciales, a través de Kmeans Clustering
